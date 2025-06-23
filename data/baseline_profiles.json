@@ -1,0 +1,20 @@
+{
+  "SAT001": {
+    "temp_min": 10,
+    "temp_max": 50,
+    "voltage_min": 7.5,
+    "voltage_max": 9.5
+  },
+  "SAT002": {
+    "temp_min": 5,
+    "temp_max": 45,
+    "voltage_min": 7.0,
+    "voltage_max": 9.0
+  },
+  "SAT003": {
+    "temp_min": 8,
+    "temp_max": 48,
+    "voltage_min": 7.2,
+    "voltage_max": 9.2
+  }
+}
