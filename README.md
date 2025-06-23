@@ -19,33 +19,29 @@ Detect cyber threats and anomalies in satellite telemetry using AI + baseline ru
 
 ## 📂 Folder Structure
 
+
 vortexscan-/
 ├── data/
-│   ├── telemetry_realistic.csv         # Input satellite telemetry
-│   └── (Add) baseline_profiles.json    # Define safe thresholds for each satellite
-│
+│ ├── telemetry_realistic.csv # Input satellite telemetry
+│ └── baseline_profiles.json # Safe thresholds per satellite
 ├── models/
-│   └── isolation_forest.pkl            # Trained ML model
-│
+│ └── isolation_forest.pkl # Trained ML model
 ├── output/
-│   ├── anomaly_report.csv              # Final flagged anomaly records
-│   ├── anomaly_report.txt              # Pretty printable version
-│   ├── baseline_violations.csv         # Known rule violations
-│   ├── per_satellite_summary.csv       # Summary view per satellite
-│   ├── summary.txt                     # Human-readable highlights
-│   └── anomaly_plot.png                # Graph of detected anomalies
-│
+│ ├── anomaly_report.csv # Final flagged anomaly records
+│ ├── anomaly_report.txt # Pretty printable version
+│ ├── baseline_violations.csv # Known rule violations
+│ ├── per_satellite_summary.csv # Summary view per satellite
+│ ├── summary.txt # Human-readable highlights
+│ └── anomaly_plot.png # Graph of detected anomalies
 ├── src/
-│   ├── detect_anomalies.py             # Core detection logic
-│   ├── train_model.py                  # Isolation Forest training
-│   └── data_generator.py               # Simulate or format telemetry
-│
-├── vortexscan.py                       # Main CLI entrypoint
-├── anomaly_plot.png                    # Copy of graph output
-├── README.md                           # This file
-├── requirements.txt                    # Dependencies
-└── summary.txt                         # Final summary report
-
+│ ├── detect_anomalies.py # Core detection logic
+│ ├── train_model.py # Isolation Forest training
+│ └── data_generator.py # Simulate or format telemetry
+├── vortexscan.py # Main CLI entrypoint
+├── anomaly_plot.png # Copy of graph output
+├── README.md # This file
+├── requirements.txt # Dependencies
+└── summary.txt # Final summary report
 
 
 ---
