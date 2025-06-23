@@ -1,0 +1,10 @@
+Satellite Anomaly Detection Summary
+==================================
+Total anomalies detected: 25
+
+Anomalies by satellite:
+satellite_id
+SAT001    10
+SAT002     9
+SAT003     6
+Name: count, dtype: int64
