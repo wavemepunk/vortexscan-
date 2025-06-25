@@ -1,10 +1,10 @@
-🛰️ VortexScan Report — 2025-06-22 14:35:23
+🛰️ VortexScan Report — 2025-06-23 19:44:32
 
 🔍 Total Anomalies Detected: 100
 
 - [2025-06-21 00:00:00] Satellite SAT001 | Command: 2 | Temp: 39.97° | Baseline: None
 - [2025-06-21 00:00:00] Satellite SAT003 | Command: 1 | Temp: 30.31° | Baseline: None
-- [2025-06-21 00:30:00] Satellite SAT001 | Command: 2 | Temp: 30.34° | Baseline: ⚡ voltage_low
+- [2025-06-21 00:30:00] Satellite SAT001 | Command: 2 | Temp: 30.34° | Baseline: voltage_low
 - [2025-06-21 00:30:00] Satellite SAT002 | Command: 0 | Temp: 36.42° | Baseline: None
 - [2025-06-21 00:30:00] Satellite SAT003 | Command: 2 | Temp: 33.95° | Baseline: None
 - [2025-06-21 01:00:00] Satellite SAT002 | Command: 1 | Temp: 38.76° | Baseline: None
@@ -15,7 +15,7 @@
 - [2025-06-21 02:30:00] Satellite SAT002 | Command: 2 | Temp: 35.87° | Baseline: None
 - [2025-06-21 02:30:00] Satellite SAT001 | Command: 2 | Temp: 45.04° | Baseline: None
 - [2025-06-21 03:00:00] Satellite SAT001 | Command: 1 | Temp: 32.88° | Baseline: None
-- [2025-06-21 03:00:00] Satellite SAT002 | Command: 0 | Temp: -13.42° | Baseline: ❄️ temp_low
+- [2025-06-21 03:00:00] Satellite SAT002 | Command: 0 | Temp: -13.42° | Baseline: temp_low
 - [2025-06-21 03:00:00] Satellite SAT003 | Command: 0 | Temp: 37.96° | Baseline: None
 - [2025-06-21 03:30:00] Satellite SAT001 | Command: 2 | Temp: 32.65° | Baseline: None
 - [2025-06-21 03:30:00] Satellite SAT002 | Command: 1 | Temp: 37.15° | Baseline: None
@@ -41,8 +41,8 @@
 - [2025-06-21 09:00:00] Satellite SAT001 | Command: 1 | Temp: 27.28° | Baseline: None
 - [2025-06-21 09:00:00] Satellite SAT002 | Command: 2 | Temp: 31.82° | Baseline: None
 - [2025-06-21 09:30:00] Satellite SAT001 | Command: 1 | Temp: 29.07° | Baseline: None
-- [2025-06-21 09:30:00] Satellite SAT003 | Command: 0 | Temp: -45.94° | Baseline: ❄️ temp_low
-- [2025-06-21 10:00:00] Satellite SAT003 | Command: 2 | Temp: -26.52° | Baseline: ❄️ temp_low
+- [2025-06-21 09:30:00] Satellite SAT003 | Command: 0 | Temp: -45.94° | Baseline: temp_low
+- [2025-06-21 10:00:00] Satellite SAT003 | Command: 2 | Temp: -26.52° | Baseline: temp_low
 - [2025-06-21 10:30:00] Satellite SAT001 | Command: 0 | Temp: 28.77° | Baseline: None
 - [2025-06-21 10:30:00] Satellite SAT002 | Command: 2 | Temp: 39.49° | Baseline: None
 - [2025-06-21 11:00:00] Satellite SAT002 | Command: 1 | Temp: 38.63° | Baseline: None

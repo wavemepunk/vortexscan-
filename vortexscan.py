@@ -6,6 +6,7 @@ from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
+from src.detect_anomalies2 import detect_anomalies
 
 # Ensure output directory exists
 os.makedirs("output", exist_ok=True)
