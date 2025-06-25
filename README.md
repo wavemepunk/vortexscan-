@@ -117,9 +117,6 @@ This tool helps satellite operators, analysts, and defense teams:
 
     👩‍💻 Leader: Roshni Nai
 
-    🧑‍💻 Member 2: Bihag Parihar
-
-    🧑‍💻 Member 3: Krish Singh
 
     🛰️ Hackathon: Bhartiya Antariksh Hackathon 2025
 
