@@ -121,3 +121,5 @@ This tool helps satellite operators, analysts, and defense teams:
     🛰️ Hackathon: Bhartiya Antariksh Hackathon 2025
 
     🏫 Institute: Hansaba College of Engineering and Technology
+
+AI Attribution: This project was developed with assistance from AI tools including ChatGPT.
