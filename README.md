@@ -121,13 +121,3 @@ This tool helps satellite operators, analysts, and defense teams:
     🛰️ Hackathon: Bhartiya Antariksh Hackathon 2025
 
     🏫 Institute: Hansaba College of Engineering and Technology
-
-🏁 Status
-
-✅ MVP complete and tested
-📦 Ready for submission
-🌐 Upload to GitHub recommended
-📜 License & Credit
-
-Made with ❤️ for Bhartiya Antariksh Hackathon 2025
-Developed by Roshni Nai
