@@ -1,6 +1,6 @@
 # 🚀 VortexScan: AI-Powered Satellite Telemetry Anomaly Detection
 
-**For Bhartiya Antariksh Hackathon 2025**  
+ 
 Detect cyber threats and anomalies in satellite telemetry using AI + baseline rules.
 
 ---
@@ -118,7 +118,6 @@ This tool helps satellite operators, analysts, and defense teams:
     👩‍💻 Leader: Roshni Nai
 
 
-    🛰️ Hackathon: Bhartiya Antariksh Hackathon 2025
 
     🏫 Institute: Hansaba College of Engineering and Technology
 
