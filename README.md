@@ -115,10 +115,10 @@ This tool helps satellite operators, analysts, and defense teams:
 
 👥 Team
 
-    👩‍💻 Leader: Roshni Nai
+    👩‍💻 Leader: ( wavemepunk )
 
 
 
-    🏫 Institute: Hansaba College of Engineering and Technology
+    
 
 AI Attribution: This project was developed with assistance from AI tools including ChatGPT.
